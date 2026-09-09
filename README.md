@@ -6,7 +6,7 @@ ASAFI is an autonomous avionics payload designed to detect thermal anomalies and
 
 ## 🛠️ System Architecture
 
-* **Core Processing:** Raspberry Pi 4 / 5
+* **Core Processing:** Raspberry Pi 4B
 * **Computer Vision:** OpenCV / YOLO Fire Detection Pipeline
 * **Thermal Verification:** MLX90614 Non-Contact IR Sensor (I²C)
 * **Actuation:** PCA9685 PWM Driver + MG996R Servos (2-Axis Pan-Tilt)
