@@ -19,7 +19,7 @@ ASAFI is an autonomous avionics payload designed to detect thermal anomalies and
 
 | Pair | Members | Domain Responsibility |
 | :--- | :--- | :--- |
-| **Pair 1** | Manas & Pradyumna | Computer Vision (OpenCV/YOLO), Thermal Sensor Fusion & Servo/Solenoid Actuation |
+| **Pair 1** | Manas & Pradyumna | Computer Vision (YOLOv11), Thermal Sensor Fusion & Servo/Solenoid Actuation |
 | **Pair 2** | Kavyansh & Deepanshu | Mission Control Dashboard, WebSockets Telemetry & Remote Override System |
 | **Pair 3** | Paakhi & Rahul | Interactive Landing Page, Technical Documentation, Poster & ECS Reimbursement |
 
